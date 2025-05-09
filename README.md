@@ -6,16 +6,12 @@
 
 <br>
 <p align="center">
-    Systems:
-    <br><br>
     <img src="https://img.shields.io/badge/APPLE-000000?style=for-the-badge&logo=apple&logoColor=white" alt="APPLE">
     <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="LINUX">
 </p>
 
 <br>
 <p align="center">
-    Tools:
-    <br><br>
     <img src="https://img.shields.io/badge/GIT-F05032?logo=git&logoColor=white&style=for-the-badge" alt="GIT">
     <img src="https://img.shields.io/badge/DOCKER-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="DOCKER">
     <img src="https://img.shields.io/badge/VIM-019733?logo=vim&logoColor=white&style=for-the-badge" alt="VIM">
@@ -29,8 +25,6 @@
 
 <br>
 <p align="center">
-    Languages:
-    <br><br>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
     <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PYTHON">
     <img src="https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="BASH">
@@ -38,14 +32,12 @@
 
 ## 📊 Statistics
 
-<!--
-![Stats](https://github-readme-stats.vercel.app/api?username=gwendalminguy&theme=noctis_minimus&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![Streak](https://nirzak-streak-stats.vercel.app/?user=gwendalminguy&theme=noctis_minimus&hide_border=false)<br/>
--->
-
 <br>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwendalminguy&theme=noctis_minimus&hide_border=true&hide_title=true&hide=shaderlab&include_all_commits=true&count_private=false&layout=compact" alt="LANGUAGES">
+    <!--
+    <img src="https://github-readme-stats.vercel.app/api?username=gwendalminguy&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=contribs&include_all_commits=true&count_private=false" alt="LANGUAGES">
+    -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwendalminguy&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab&include_all_commits=true" alt="LANGUAGES">
 </p>
 
 ## 🌐 Socials
