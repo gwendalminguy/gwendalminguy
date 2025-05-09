@@ -27,16 +27,11 @@
 <p align="center">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
     <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PYTHON">
-    <img src="https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="BASH">
+    <img src="https://img.shields.io/badge/SHELL-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="SHELL">
 </p>
-
-## 📊 Statistics
 
 <br>
 <p align="center">
-    <!--
-    <img src="https://github-readme-stats.vercel.app/api?username=gwendalminguy&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=contribs&include_all_commits=true&count_private=false" alt="LANGUAGES">
-    -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwendalminguy&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab&include_all_commits=true" alt="LANGUAGES">
 </p>
 
