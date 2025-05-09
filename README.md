@@ -1,8 +1,8 @@
 ## 💫 About Me
 
-Fairly new to the developper community!
+Fairly new to the programming world!
 
-As a curious and avid learner, I recently joined the programming world, and started studying at [Holberton School](https://www.holbertonschool.com) in early 2025. After three months working on basics and low-level programming, I'm currently learning higher level languages, aiming to get a grasp on front-end and back-end for web development.
+As a curious and avid learner, I recently joined the developer community, and started studying at [Holberton School](https://www.holbertonschool.com) in early 2025. After three months working on basics and low-level programming, I'm currently learning higher level languages, aiming to get a grasp on front-end and back-end for web development.
 
 ## 💻 Technologies
 
@@ -38,7 +38,7 @@ As a curious and avid learner, I recently joined the programming world, and star
 
 <br>
 <p align="center">
-    <img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" href="https://instagram.com/gwendalminguy" alt="INSTAGRAM">
-    <img src="https://img.shields.io/badge/LINKEDIN-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://linkedin.com/in/gwendalminguy" alt="LINKEDIN">
-    <img src="https://img.shields.io/badge/-STACK OVERFLOW-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" href="https://stackoverflow.com/users/28956878/gwendalminguy" alt="STACK OVERFLOW">
+    <a href="https://instagram.com/gwendalminguy"><img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="INSTAGRAM"></a>
+    <a href="https://linkedin.com/in/gwendalminguy"><img src="https://img.shields.io/badge/LINKEDIN-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN"></a>
+    <a href="https://stackoverflow.com/users/28956878/gwendalminguy"><img src="https://img.shields.io/badge/-STACK OVERFLOW-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="STACK OVERFLOW"></a>
 </p>
