@@ -1,6 +1,8 @@
 ## 💫 About Me
 
-#### Work in Progress 🏗️
+Fairly new to the developper community!
+
+As a curious and avid learner, I recently joined the programming world, and started studying at [Holberton School](https://www.holbertonschool.com) in early 2025. After three months working on basics and low-level programming, I'm currently learning higher level languages, aiming to get a grasp on front-end and back-end for web development.
 
 ## 💻 Technologies
 
@@ -16,7 +18,7 @@
     <img src="https://img.shields.io/badge/DOCKER-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="DOCKER">
     <img src="https://img.shields.io/badge/VIM-019733?logo=vim&logoColor=white&style=for-the-badge" alt="VIM">
     <img src="https://img.shields.io/badge/VS CODE-007ACC?logo=vscode&logoColor=white&style=for-the-badge" alt="VS CODE">
-    <img src="https://img.shields.io/badge/GCC-343741?style=for-the-badge&logo=gnu&logoColor=white" alt="GCC">
+    <!-- <img src="https://img.shields.io/badge/GCC-343741?style=for-the-badge&logo=gnu&logoColor=white" alt="GCC"> -->
     <br>
     <img src="https://img.shields.io/badge/PHOTOSHOP-3C327B?logo=photoshop&logoColor=white&style=for-the-badge" alt="PHOTOSHOP">
     <img src="https://img.shields.io/badge/INDESIGN-E749A0?logo=indesign&logoColor=white&style=for-the-badge" alt="INDESIGN">
@@ -26,12 +28,9 @@
 <br>
 <p align="center">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-    <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PYTHON">
     <img src="https://img.shields.io/badge/SHELL-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="SHELL">
-</p>
-
-<br>
-<p align="center">
+    <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PYTHON">
+    <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwendalminguy&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab&include_all_commits=true" alt="LANGUAGES">
 </p>
 
@@ -41,7 +40,5 @@
 <p align="center">
     <img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" href="https://instagram.com/gwendalminguy" alt="INSTAGRAM">
     <img src="https://img.shields.io/badge/LINKEDIN-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://linkedin.com/in/gwendalminguy" alt="LINKEDIN">
-    <img src="https://img.shields.io/badge/REDDIT-%23FF4500?style=for-the-badge&logo=Reddit&logoColor=white" href="https://reddit.com/user/gwendalminguy" alt="REDDIT">
-    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" href="https://www.facebook.com/gwendalminguy" alt="FACEBOOK">
     <img src="https://img.shields.io/badge/-STACK OVERFLOW-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" href="https://stackoverflow.com/users/28956878/gwendalminguy" alt="STACK OVERFLOW">
 </p>
