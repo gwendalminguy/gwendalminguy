@@ -12,11 +12,12 @@ Work in Progress 🏗️
 ![GCC](https://img.shields.io/badge/GCC-343741?style=for-the-badge&logo=gnu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-![Linux Badge](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
+![Mac](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=mac&logoColor=white)
 
 ## 📊 Statistics
 <!--
 ![Stats](https://github-readme-stats.vercel.app/api?username=gwendalminguy&theme=noctis_minimus&hide_border=false&include_all_commits=true&count_private=false)<br/>
--->
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=gwendalminguy&theme=noctis_minimus&hide_border=false)<br/>
+-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwendalminguy&theme=noctis_minimus&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
