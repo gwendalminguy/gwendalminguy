@@ -1,3 +1,5 @@
+![HEADER](./graphics/header.png)
+
 ## 💫 About Me
 
 Fairly new to the programming world!
