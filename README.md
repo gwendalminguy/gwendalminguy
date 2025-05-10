@@ -1,6 +1,6 @@
 ![HEADER](./graphics/header.png)
 
-## 💫 About Me
+## 💫 About Me...
 
 Fairly new to the programming world!
 
