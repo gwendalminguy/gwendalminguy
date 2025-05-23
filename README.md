@@ -6,9 +6,6 @@ Fairly new to the programming world!
 
 As a curious and avid learner, I recently joined the developer community, and started studying at [Holberton School](https://www.holbertonschool.com) in early 2025. After three months working on basics and low-level programming, I'm currently learning higher level languages, aiming to get a grasp on front-end and back-end for web development.
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="gwendalminguy" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/gwendalminguy?trk=profile-badge"></a></div>
-
 ## 💻 Technologies
 
 <br>
@@ -46,4 +43,5 @@ As a curious and avid learner, I recently joined the developer community, and st
     <a href="https://instagram.com/gwendalminguy"><img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="INSTAGRAM"></a>
     <a href="https://linkedin.com/in/gwendalminguy"><img src="https://img.shields.io/badge/LINKEDIN-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN"></a>
     <a href="https://stackoverflow.com/users/28956878/gwendalminguy"><img src="https://img.shields.io/badge/-STACK OVERFLOW-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="STACK OVERFLOW"></a>
+    <a href="https://www.credly.com/users/gwendalminguy"><img src="https://img.shields.io/badge/CREDLY-%044438?style=for-the-badge&logo=Credly&logoColor=white" alt="CREDLY"></a>
 </p>
