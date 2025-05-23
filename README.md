@@ -6,6 +6,9 @@ Fairly new to the programming world!
 
 As a curious and avid learner, I recently joined the developer community, and started studying at [Holberton School](https://www.holbertonschool.com) in early 2025. After three months working on basics and low-level programming, I'm currently learning higher level languages, aiming to get a grasp on front-end and back-end for web development.
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="gwendalminguy" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/gwendalminguy?trk=profile-badge">Gwendal Minguy-Pèlerin</a></div>
+
 ## 💻 Technologies
 
 <br>
