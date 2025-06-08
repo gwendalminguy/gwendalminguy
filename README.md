@@ -4,7 +4,7 @@
 
 Fairly new to the programming world!
 
-As a curious and avid learner, I recently joined the developer community, and started studying at [Holberton School](https://www.holbertonschool.com) in early 2025. After three months working on basics and low-level programming, I'm currently learning higher level languages, aiming to get a grasp on front-end and back-end for web development.
+As a curious and avid learner, I recently joined the developer community after graduating the Toulouse School of Architecture in 2024. I discovered Python on my own, and became deeply interested in the wide range of possibilities programming offers. This strong new interest led me to begin studying at [Holberton School](https://www.holbertonschool.com) in early 2025. After spending three months working on fundamentals and low-level programming, I am now diving into higher-level languages, aiming to get a solid understanding of both front-end and back-end web development.
 
 ## 💻 Technologies
 
