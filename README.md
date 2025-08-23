@@ -8,6 +8,20 @@ As a curious and avid learner, I recently joined the programming community after
 
 After working on fundamentals and low-level programming, I dived into higher-level languages, aiming to get a solid understanding of both front-end and back-end web development.
 
+## 💻 Formation
+
+- **Holberton School** - Toulouse (February 2025 - Now)
+<br>
+Computer Science Fundamentals (Low-Level Programming - Back-End & Front-End)
+
+- **École Nationale Supérieure d'Architecture** - Toulouse (September 2016 - June 2024)
+<br>
+Master's Degree in Architecture
+
+- **Lycée Pré De Cordy** - Sarlat-la-Canéda (September 2013 - June 2016)
+<br>
+High-School Science Diploma
+
 ## 💻 Technologies
 
 <br>
@@ -57,6 +71,9 @@ After working on fundamentals and low-level programming, I dived into higher-lev
 ## 🌐 Contact
 
 - **Mail**: [gwendalminguy@outlook.fr](mailto:gwendalminguy@outlook.fr)
+
 - **Phone**: +33 7 81 84 24 90
+
 - **LinkedIn**: [@gwendalminguy](https://www.linkedin.com/in/gwendalminguy)
+
 - **Instagram**: [@gwendalminguy](https://www.instagram.com/gwendalminguy)
