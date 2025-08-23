@@ -10,17 +10,14 @@ After working on fundamentals and low-level programming, I dived into higher-lev
 
 ## 💻 Formation
 
-- **Holberton School** - Toulouse (February 2025 - Now)
-<br>
-Computer Science Fundamentals (Low-Level Programming - Back-End & Front-End)
+- **Holberton School** - Toulouse (February 2025 - Now)\
+Computer Science Fundamentals (Low-Level Programming - Back-End & Front-End Development)
 
-- **École Nationale Supérieure d'Architecture** - Toulouse (September 2016 - June 2024)
-<br>
+- **École Nationale Supérieure d'Architecture** - Toulouse (September 2016 - June 2024)\
 Master's Degree in Architecture
 
-- **Lycée Pré De Cordy** - Sarlat-la-Canéda (September 2013 - June 2016)
-<br>
-High-School Science Diploma
+- **Lycée Pré De Cordy** - Sarlat-la-Canéda (September 2013 - June 2016)\
+High-School Diploma (Science Major)
 
 ## 💻 Technologies
 
