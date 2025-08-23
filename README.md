@@ -12,6 +12,8 @@ After working on fundamentals and low-level programming, I dived into higher-lev
 
 <br>
 <p align="center">
+    <b>TOOLS</b>
+    <br><br>
     <img src="https://img.shields.io/badge/APPLE-000000?style=for-the-badge&logo=apple&logoColor=white" alt="APPLE">
     <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="LINUX">
 </p>
@@ -30,6 +32,8 @@ After working on fundamentals and low-level programming, I dived into higher-lev
 
 <br>
 <p align="center">
+    <b>STACK</b>
+    <br><br>
     <img src="https://img.shields.io/badge/Flask-419696?style=for-the-badge&logo=flask&logoColor=white" alt="FLASK">
 </p>
 
@@ -55,3 +59,4 @@ After working on fundamentals and low-level programming, I dived into higher-lev
 - **Mail**: [gwendalminguy@outlook.fr](mailto:gwendalminguy@outlook.fr)
 - **Phone**: +33 7 81 84 24 90
 - **LinkedIn**: [@gwendalminguy](https://www.linkedin.com/in/gwendalminguy)
+- **Instagram**: [@gwendalminguy](https://www.instagram.com/gwendalminguy)
