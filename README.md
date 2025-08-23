@@ -10,23 +10,23 @@ After working on fundamentals and low-level programming, I dived into higher-lev
 
 ## 🎓 Formation
 
-- **Holberton School** - Toulouse (February 2025 - Now)\
-Computer Science Fundamentals (RNCP 5)
+- **Holberton School** - Toulouse (Feb. 2025 - Now)\
+Computer Science Foundations (RNCP 5)
     - Low-Level Programming
     - Back-End & Front-End Development
     - Application Programming Interfaces
 
-- **École Nationale Supérieure d'Architecture** - Toulouse (September 2016 - June 2024)\
+- **École Nationale Supérieure d'Architecture** - Toulouse (Sep. 2016 - Jun. 2024)\
 Architecture Diploma (Master's Degree)
 
-- **Lycée Pré De Cordy** - Sarlat-la-Canéda (September 2013 - June 2016)\
+- **Lycée Pré De Cordy** - Sarlat-la-Canéda (Sep. 2013 - Jun. 2016)\
 High-School Diploma (Science Major)
 
 ## 💻 Technologies
 
 <br>
 <p align="center">
-    <b>TOOLS</b>
+    <b>OS & TOOLS</b>
     <br><br>
     <img src="https://img.shields.io/badge/APPLE-000000?style=for-the-badge&logo=apple&logoColor=white" alt="APPLE">
     <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="LINUX">
@@ -46,7 +46,7 @@ High-School Diploma (Science Major)
 
 <br>
 <p align="center">
-    <b>STACK</b>
+    <b>FRAMEWORKS & LANGUAGES</b>
     <br><br>
     <img src="https://img.shields.io/badge/Flask-419696?style=for-the-badge&logo=flask&logoColor=white" alt="FLASK">
 </p>
