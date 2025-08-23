@@ -69,7 +69,7 @@ High-School Diploma (Science Major)
 
 - **Mail**: [gwendalminguy@outlook.fr](mailto:gwendalminguy@outlook.fr)
 
-- **Phone**: [+33 7 81 84 24 90](tel:781842490)
+- **Phone**: [+33 7 81 84 24 90](tel:+33781842490)
 
 - **LinkedIn**: [@gwendalminguy](https://www.linkedin.com/in/gwendalminguy)
 
