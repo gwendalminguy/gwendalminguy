@@ -8,12 +8,12 @@ As a curious and avid learner, I recently joined the programming community after
 
 After working on computer science fundamentals and low-level programming, I dived into higher-level languages, aiming to get a solid understanding of both front-end and back-end web development.
 
-<I am currently looking for a two-year apprenticeship in a company, in order to put my knowledge into practice.
+I am currently looking for a two-year apprenticeship in a company, in order to put my knowledge into practice.
 
 ## 🎓 Formation
 
 - **Holberton School** - Toulouse (Feb. 2025 - Now)\
-<em>Computer Science Foundations (RNCP 5)</em>
+<em>Computer Science Foundations</em>
     - Low-Level Programming
     - Back-End & Front-End Development
     - Application Programming Interfaces
