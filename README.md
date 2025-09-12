@@ -1,4 +1,4 @@
-![HEADER](./images/graphics/header.png)
+![HEADER](./graphics/header.png)
 
 ## 💫 About Me
 
