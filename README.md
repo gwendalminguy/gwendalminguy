@@ -73,6 +73,7 @@ I am currently looking for a two-year apprenticeship in a company, in order to p
     <br>
     <!-- Frontend -->
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="REACT">
+    <img src="https://img.shields.io/badge/TailwindCSS-0175C2?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TAILWINDCSS">
 </p>
 
 <br>
