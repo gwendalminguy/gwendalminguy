@@ -8,7 +8,7 @@ As a curious and avid learner, I recently joined the programming community after
 
 After working on computer science fundamentals and low-level programming, I dived into higher-level languages, aiming to get a solid understanding of both front-end and back-end web development.
 
-I am currently looking for a two-year apprenticeship in a company, in order to put my knowledge into practice.
+I am currently completing a two-year apprenticeship as a full-stack web developer at [Aprilyos](https://www.aprilyos.com).
 
 ## 🎓 Formation
 
@@ -70,22 +70,16 @@ I am currently looking for a two-year apprenticeship in a company, in order to p
     <!-- Backend -->
     <img src="https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=white" alt="FLASK">
     <img src="https://img.shields.io/badge/Django-1E6823?style=for-the-badge&logo=django&logoColor=white" alt="DJANGO">
+    <img src="https://img.shields.io/badge/FastAPI-009585?style=for-the-badge&logo=fastapi&logoColor=white" alt="FASTAPI">
     <br>
     <!-- Frontend -->
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="REACT">
     <img src="https://img.shields.io/badge/TailwindCSS-0175C2?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TAILWINDCSS">
 </p>
 
-<br>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwendalminguy&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab&include_all_commits=true" alt="LANGUAGES">
-</p>
-
 ## 🌐 Contact
 
 - **Mail**: [gwendalminguy@outlook.fr](mailto:gwendalminguy@outlook.fr)
-
-- **Phone**: [+33 7 81 84 24 90](tel:+33781842490)
 
 - **LinkedIn**: [@gwendalminguy](https://www.linkedin.com/in/gwendalminguy)
 
