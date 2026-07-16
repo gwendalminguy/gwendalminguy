@@ -4,11 +4,9 @@
 
 **Junior Full-Stack Developer**
 
-As a curious and avid learner, I recently joined the programming community after graduating the Toulouse School of Architecture in 2024. I discovered Python on my own, and became deeply interested in the wide range of possibilities programming languages offer. This strong new interest led me to begin studying at [Holberton School](https://www.holbertonschool.com) in early 2025.
+After graduating from the *Toulouse School of Architecture* in 2024, I discovered Python on my own and quickly became fascinated by the wide range of possibilities offered by software development. This new passion led me to join [Holberton School](https://www.holbertonschool.com) in early 2025, where I built strong foundations in computer science, from low-level programming to modern web development.
 
-After working on computer science fundamentals and low-level programming, I dived into higher-level languages, aiming to get a solid understanding of both front-end and back-end web development.
-
-I am currently completing a two-year apprenticeship as a full-stack web developer at [Aprilyos](https://www.aprilyos.com).
+I am currently completing a two-year apprenticeship as a full-stack developer at [Aprilyos](https://www.aprilyos.com).
 
 ## 🎓 Formation
 
