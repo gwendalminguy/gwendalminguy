@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 
-**Junior Web & Mobile Developer**
+**Junior Full-Stack Developer**
 
 As a curious and avid learner, I recently joined the programming community after graduating the Toulouse School of Architecture in 2024. I discovered Python on my own, and became deeply interested in the wide range of possibilities programming languages offer. This strong new interest led me to begin studying at [Holberton School](https://www.holbertonschool.com) in early 2025.
 
@@ -12,17 +12,24 @@ I am currently completing a two-year apprenticeship as a full-stack web develope
 
 ## 🎓 Formation
 
-- **Holberton School** - Toulouse (Feb. 2025 - Now)\
-<em>Computer Science Foundations</em>
-    - Low-Level Programming
-    - Back-End & Front-End Development
-    - Application Programming Interfaces
+- **Holberton School** - Toulouse (Feb. 2025 - Now):\
+*Computer Science Foundations*
+    - **Low-Level Programming**: *memory management, pointers and data structures*
+    - **Algorithms & Data Structures**: *problem solving, space and time complexity analysis*
+    - **Software Engineering**: *git workflows, collaborative development and debugging*
+    - **Back-End Development**: *REST APIs, layered architectures, database design and ORMs*
+    - **Front-End Development**: *responsive design and accessibility*
+    - **Testing & Reliability**: *unit testing, integration testing and API testing*
+    - **DevOps Foundations**: *containerized environments, CI/CD fundamentals and workflow automations*
 
-- **École Nationale Supérieure d'Architecture** - Toulouse (Sep. 2016 - Jun. 2024)\
-<em>Architecture Diploma (Master's Degree)</em>
+- **École Nationale Supérieure d'Architecture** - Toulouse (Sep. 2016 - Jun. 2024):\
+*Architecture Diploma (Master's Degree)*
+    - **Analytical Thinking**: *problm solving, constraint and spatial analysis*
+    - **Design & Visualization**: *vector graphics, visual communication and data representation*
+    - **Project Management**: *project design, planning and coordination*
 
-- **Lycée Pré De Cordy** - Sarlat-la-Canéda (Sep. 2013 - Jun. 2016)\
-<em>High-School Diploma (Science Major)</em>
+- **Lycée Pré De Cordy** - Sarlat-la-Canéda (Sep. 2013 - Jun. 2016):\
+*High-School Diploma (Science Major)*
 
 ## 💻 Technologies
 
@@ -54,15 +61,17 @@ I am currently completing a two-year apprenticeship as a full-stack web develope
     <b>LANGUAGES & FRAMEWORKS</b>
     <br><br>
     <!-- Backend -->
+    <img src="https://img.shields.io/badge/BASH-333333?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="BASH">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-    <img src="https://img.shields.io/badge/SHELL-333333?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="SHELL">
     <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PYTHON">
-    <img src="https://img.shields.io/badge/SQLITE-144863?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLITE">
+    <img src="https://img.shields.io/badge/SQLITE-146863?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLITE">
+    <img src="https://img.shields.io/badge/POSTGRESQL-144863?style=for-the-badge&logo=postgresql&logoColor=white" alt="POSTGRESQL">
     <br>
     <!-- Frontend -->
     <img src="https://img.shields.io/badge/HTML-E34f26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
     <img src="https://img.shields.io/badge/CSS-CC6699?style=for-the-badge&logo=css&logoColor=white" alt="CSS">
     <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JAVASCRIPT">
+    <img src="https://img.shields.io/badge/TYPESCRIPT-477FDE?style=for-the-badge&logo=typescript&logoColor=black" alt="TYPESCRIPT">
 </p>
 
 <br>
